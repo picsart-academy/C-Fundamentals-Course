@@ -6,4 +6,5 @@ Digraphs that appear in strings are also called **escape sequences** (they escap
 
 - \a Alert
 - \b Backspace
-  
+  - \f Form feed (page advance)
+  - \n Newline
